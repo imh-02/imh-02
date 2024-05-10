@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola, soy Ismael Martín 👋
+Actualmente estoy cursando el Grado en Ingeniería Informática en la Universidad de La Laguna
 
 <!--
 **imh-02/imh-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
