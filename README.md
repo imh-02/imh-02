@@ -1,5 +1,6 @@
 ### Hola, soy Ismael Martín 👋
-Soy estudiante del Grado en Ingeniería Informática en la Universidad de La Laguna
+
+¡Hola! Soy Ismael, graduado en Ingeniería Informática, apasionado por las diversas ramas de la informática y, en especial, el desarrollo back-end. Estoy siempre dispuesto a aprender integrándome en equipos profesionales. Tengo conocimientos en desarrollo con TypeScript, C++ y Python, y he trabajado con herramientas de análisis de datos como Microsoft Power BI. Además, desarrollé mi trabajo de fin de grado en el ámbito de la inteligencia artificial.
 
 <!--
 **imh-02/imh-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
