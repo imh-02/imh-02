@@ -1,6 +1,6 @@
 ### Hola, soy Ismael Martín 👋
 
-¡Hola! Soy Ismael, graduado en Ingeniería Informática, apasionado por las diversas ramas de la informática y, en especial, el desarrollo back-end. Estoy siempre dispuesto a aprender integrándome en equipos profesionales. Tengo conocimientos en desarrollo con TypeScript, C++ y Python, y he trabajado con herramientas de análisis de datos como Microsoft Power BI. Además, desarrollé mi trabajo de fin de grado en el ámbito de la inteligencia artificial.
+¡Hola! Soy Ismael, graduado en Ingeniería Informática, con especial interés en el desarrollo de software y la inteligencia artificial. Me considero una persona proactiva, adaptable y con motivación por seguir aprendiendo. Estoy abierto a explorar distintas áreas de la informática y a afrontar nuevos retos que me permitan crecer profesionalmente.
 
 <!--
 **imh-02/imh-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
